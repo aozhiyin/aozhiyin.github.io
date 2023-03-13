@@ -1,0 +1,15 @@
+body {
+    width: 100%;
+    min-width: 320px;
+    max-width: 1080px;
+    margin: 0 auto;
+    font-size: 14px;
+    font-family: -apple-system, Helvetica, sans-serif;    
+    color: #666;
+    line-height: 1.5;
+}
+
+.main-content div img {
+    width: 100%;
+}
+
